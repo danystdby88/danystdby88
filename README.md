@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/danystdby88/tripleten/blob/main/baner3.png" width="100%" alt="Banner">
+  <img src="https://github.com/danystdby88/danystdby88/blob/main/baner1.png" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">Hola, soy Daniel 👋</h1>
