@@ -59,9 +59,9 @@ Me apasiona conectar la ejecución técnica con el impacto de negocio, optimizan
 
 ## 📫 Cómo contactarme
 
-- 💼 LinkedIn: [tu-linkedin]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/daniel-rivero-/))  
+- 💼 LinkedIn: [Daniel Rivero](https://www.linkedin.com/in/daniel-rivero-/)
 - 📧 Email: danielriverow@gmail.com  
-- 🌐 Portafolio: [tu-sitio.com  ](https://github.com/danystdby88/)
+- 🌐 Portafolio: [Daniel Rivero](https://github.com/danystdby88/)
 
 ---
 
